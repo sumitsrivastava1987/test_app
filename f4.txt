@@ -1,0 +1,6 @@
+What is the output of print(3 * 'Hello') in Python?
+a) HelloHelloHello
+b) 3Hello
+c) Hello
+d) Hello 3 times
+Answer: a) HelloHelloHello
